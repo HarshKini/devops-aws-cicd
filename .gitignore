@@ -1,0 +1,20 @@
+# --- Terraform ---
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+# Do NOT ignore the lock file (commit it):
+# !.terraform.lock.hcl
+
+# --- AWS/keys ---
+*.pem
+
+# --- OS/Editor noise ---
+.DS_Store
+Thumbs.db
