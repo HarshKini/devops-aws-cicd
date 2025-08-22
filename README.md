@@ -22,13 +22,6 @@ CloudWatch → Alarms for 4xx/5xx, optional dashboard (us-east-1)
 
 ---
 
-## 📹 Demo
-
-- **Short video (60–90s):** [Add your link here: YouTube / Google Drive / LinkedIn]  
-  _(Shows: `git push` → GitHub Actions → S3 sync → CloudFront invalidation → updated site)_
-
----
-
 ## 📂 Project Structure
 
 ```
